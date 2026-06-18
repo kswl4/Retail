@@ -18,7 +18,7 @@ A collection of data analytics projects focused on customer behavior, marketing 
 
 | # | Project | Description | Tools | Dashboard |
 |---|---|---|---|---|
-| 1 | [Retail Customer Segmentation](#) | Segmented 5,800+ customers into Champions, VIPs, Loyal, and Lost groups using RFM analysis and KMeans clustering | Python · Scikit-Learn · Tableau | [View](https://public.tableau.com/app/profile/kiasha.williams/viz/RetailCustomerSegmentation_17817475071620/Dashboard1) |
+| 1 | [Retail Customer Segmentation](https://github.com/kswl4/Retail-Customer-Segmentation-) | Segmented 5,800+ customers into Champions, VIPs, Loyal, and Lost groups using RFM analysis and KMeans clustering | Python · Scikit-Learn · Tableau | [View](https://public.tableau.com/app/profile/kiasha.williams/viz/RetailCustomerSegmentation_17817475071620/Dashboard1) |
 | 2 | Coming Soon | | | |
 | 3 | Coming Soon | | | |
 
